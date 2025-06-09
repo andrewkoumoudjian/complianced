@@ -1,0 +1,6 @@
+@import '@carbon/styles/css/styles.css';
+@import './theme.scss';
+body {
+  margin: 0;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
